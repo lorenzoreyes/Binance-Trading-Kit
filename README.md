@@ -1,5 +1,5 @@
 # This Kit is the to get started with Trade at Binance with Python
-*** Also this documents aims to record my walkthrough in this journey
+
 
 
 ### Disclaimer: This software is FOSS, so there is no warranties
@@ -44,4 +44,4 @@ QUE ES UNA CIENCIA.
 TODO HACER
 Rustify a Backend
 Usa Rust
-# Binance-Trading-Kit
+# Lorenzo Reyes
