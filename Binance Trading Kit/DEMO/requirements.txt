@@ -1,5 +1,0 @@
-python-binance==1.0.15
-yfinance==0.1.74
-vaex==4.12.0
-matplotlib==3.5.3
-xlrd==2.0.1
