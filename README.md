@@ -1,17 +1,17 @@
 # This Kit is the to get started with Trade at Binance with Python
 
+<img src="pajaro.gif" width="100%" height="20%">
 
 
 ### Disclaimer: This software is FOSS, so there is no warranties
 ### See the DEMO and instructions at ... DEMO folder
 
 ```bash
-
+# install requirements
 pip install -r requirements.txt
 
-
+# run it
 python bot.py
-
 
 ```
 
@@ -37,11 +37,11 @@ Razón de este proyecto?
 
 Tradear puede convertirse en un laberinto donde no se sabe que se busca y por donde,
 por suerte con Python podemos asegurarnos que la maquina ejecute nuestra idea y nosotros
-evaluarla para mejorarla, sin necesidad de tener que ejecutarla. TRADEAR ES SENCILLO, NO DIGAMOS
-QUE ES UNA CIENCIA.
+evaluarla para mejorarla, sin necesidad de tener que ejecutarla. TRADEAR ES SENCILLO, NO LO COMPLIQUEMOS.
 
 
-TODO HACER
-Rustify a Backend
-Usa Rust
+TODO | HACER
+Apply set of technichal indicators to trade them
+Aplicar set de indicadores técnicos
+Rustify a Backend | Usa Rust
 # Lorenzo Reyes
